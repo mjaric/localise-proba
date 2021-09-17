@@ -1,0 +1,14 @@
+{
+    "HELLO_MESSAGE": "Здраво {username}",
+    "GOODBYE_MESSAGE": "Довиђења {username}",
+    "USER_ADDED_PRODUCT": "{0.username} је додао {1.productName} у корпу",
+    "SETUP": {
+        "WELCOME": "Добро дошли {0.username}",
+        "GOODBYE": "Довиђења {0.username}"
+    },
+    "ARRAY": [
+        "ЈЕДАН",
+        "ДВА",
+        "ТРИ"
+    ]
+}
