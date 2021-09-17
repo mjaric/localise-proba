@@ -1,6 +1,6 @@
 {
     "HELLO_MESSAGE": "Здраво {username}",
-    "GOODBYE_MESSAGE": "Довиђења {username}",
+    "GOODBYE_MESSAGE": "Збогом {username} , и хвала вам за сву рибу !!!",
     "USER_ADDED_PRODUCT": "{0.username} је додао {1.productName} у корпу",
     "SETUP": {
         "WELCOME": "Добро дошли {0.username}",
